@@ -1,5 +1,6 @@
 # CorpalivApp - Alba Lab
 Maximiliano Córdova Ibáñez 
+
 Aplicación móvil de gestión de colaboraciones y donantes desarrollada para la corporación Alba Lab. Construida bajo la arquitectura MVVM, utilizando persistencia de datos local y componentes modernos de interfaz de usuario.
 
 ## Características Principales (Rúbrica)
